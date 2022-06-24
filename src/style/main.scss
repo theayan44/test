@@ -1,0 +1,14 @@
+@import './_theme';
+
+@import '../components/Dashboard-layout/dashboard';
+@import '../components/Header/header';
+@import '../components/icons/icons.scss';
+// @import '../components/avatar/avatar';
+// @import '../components/notice/notice';
+// @import '../screen/Home/home';
+// @import '../components/recruitment-table/recruitment-table';
+// @import '../components/calendar/calendar';
+// @import '../components/user-info/userInfo';
+.content-text{
+    padding: 2rem;
+}
